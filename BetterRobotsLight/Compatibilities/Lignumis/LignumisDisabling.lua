@@ -1,6 +1,5 @@
 ---@class Data.ItemPrototype
 local Item = data.raw.item
-
 local Data = data.raw
 
 local function Hide_Item(name)
