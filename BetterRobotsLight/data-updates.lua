@@ -1,3 +1,4 @@
+require("Compatibilities.MetalStars_Vesta.MetalStars_Vesta_Updates")
 require("Compatibilities.MetalStars_Vesta.MetalStars_Vesta_Recipes")
 require("Compatibilities.MetalStars_Vesta.MetalStars_Vesta_Tech")
 require("Compatibilities.Bobs.BobsDisabling")
