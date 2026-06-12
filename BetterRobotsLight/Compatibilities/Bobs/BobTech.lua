@@ -31,8 +31,10 @@ if mods["boblogistics"] then
 			{"automation-science-pack", 1},
 			{"logistic-science-pack", 1},
 			{"chemical-science-pack", 1},
-			{"production-science-pack", 1},
 		}
+		if mods["TIMSABA"]then
+			table.insert(Tech["bob-robotics-3"].unit.ingredients, {"production-science-pack", 1})
+		end
 
 		table.insert(Tech["BRL-RoboticsAndPorts-2"].prerequisites, "bob-robotics-2")
 		table.insert(Tech["BRL-RoboticsAndPorts-3"].prerequisites, "bob-robotics-3")
