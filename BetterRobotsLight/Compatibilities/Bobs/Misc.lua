@@ -2,7 +2,6 @@
 local Item = data.raw.item
 ---@class data.RecipePrototype
 local Recipe = data.raw.recipe
----@class LuaSettings
 local SS = settings.startup
 
 if mods["boblogistics"]then

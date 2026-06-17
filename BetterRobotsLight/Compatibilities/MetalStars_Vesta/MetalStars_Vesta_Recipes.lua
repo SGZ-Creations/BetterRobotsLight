@@ -1,6 +1,5 @@
 ---@class data.RecipePrototype
 local Recipe = data.raw.recipe
----@class LuaSettings
 local SS = settings.startup
 
 if mods["metal-and-stars"] and not mods["skewer_planet_vesta"] then

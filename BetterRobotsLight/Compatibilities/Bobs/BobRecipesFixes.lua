@@ -1,6 +1,5 @@
 ---@class data.RecipePrototype
 local Recipe = data.raw.recipe
----@class LuaSettings
 local SS = settings.startup
 
 function RemoveIngredients(recipe_name, ingredient_name)
