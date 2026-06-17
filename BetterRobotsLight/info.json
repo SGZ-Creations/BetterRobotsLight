@@ -1,6 +1,6 @@
 {
 	"name": "BetterRobotsLight",
-	"version": "2.1.1",
+	"version": "2.1.2",
 	"title": "BetterRobotsLight",
 	"author": "SGZ_Creations",
 	"description": "Adding Better Robots & Roboports",
@@ -16,6 +16,7 @@
 		"(?) bobelectronics",
 		"(?) bobrevamp",
 		"(?) bobplates",
+		"(?) planetaris-tellus >= 1.1.6",
 		"(?) lignumis",
 		"(?) TIMSABA >= 1.5.0",
         "! Better_Robots_Extended"

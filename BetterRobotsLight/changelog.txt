@@ -2,7 +2,8 @@
 Version: 2.2.0
 Date: 00.00.26
   Changes:
-    - Fixed issues in relation to TIMSABA
+    - Fixed issues in relation to TIMSABA.
+    - Fixed issues with planetaris-tellus.
     - Grabbed code from my Chemical processing mod that had too to with robot change in relation to mod i have changed here in the past.
 ---------------------------------------------------------------------------------------------------
 Version: 2.1.0
