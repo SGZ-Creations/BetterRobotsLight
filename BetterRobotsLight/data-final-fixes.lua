@@ -1,4 +1,5 @@
 require("Compatibilities.MetalStars_Vesta.Subgrupe")
+require("Compatibilities.Tellus.NextUpgrade")
 require("Compatibilities.DiaDie.DiaDieHidingDisablingModContent")
 require("Compatibilities.Linox.LinoxHidingDisablingModContent")
 require("Compatibilities.Lignumis.LignumisDisabling")
