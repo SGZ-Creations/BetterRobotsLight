@@ -1,4 +1,3 @@
----@class LuaSettings
 local SS = settings.startup
 local Loading_Speed = settings.startup["BRL-Charging-speed"].value
 local hit_effects = require("__base__.prototypes.entity.hit-effects")
