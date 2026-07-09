@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.2.0
-Date: 00.00.26
+Date: 10.07.26
   Changes:
     - Fixed issues in relation to TIMSABA.
     - Fixed issues with planetaris-tellus.
