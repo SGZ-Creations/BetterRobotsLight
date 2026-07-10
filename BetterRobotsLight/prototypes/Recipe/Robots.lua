@@ -3,7 +3,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "BRL-construction-robotics-mk1",
-        category = "electronics-or-handcrafting",
+        categories = {"ElctronicHands"},
 		enabled = false,
 		allow_quality = true,
 		order = "A[robot]-AA[1-construction-bot]",
@@ -16,7 +16,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "BRL-construction-robotics-mk2",
-        category = "electronics-or-handcrafting",
+        categories = {"ElctronicHands"},
 		enabled = false,
 		allow_quality = true,
 		order = "A[robot]-AB[1-construction-bot]",
@@ -30,7 +30,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "BRL-construction-robotics-mk3",
-        category = "electronics-or-handcrafting",
+        categories = {"ElctronicHands"},
 		enabled = false,
         allow_quality = true,
 		order = "A[robot]-AC[1-construction-bot]",
@@ -44,7 +44,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "BRL-construction-robotics-mk4",
-        category = "electronics-or-handcrafting",
+        categories = {"ElctronicHands"},
 		enabled = false,
         allow_quality = true,
 		order = "A[robot]-AD[1-construction-bot]",
@@ -59,7 +59,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "BRL-construction-robotics-mk5",
-        category = "electronics-or-handcrafting",
+        categories = {"ElctronicHands"},
 		enabled = false,
         allow_quality = true,
 		order = "A[robot]-AE[1-construction-bot]",
@@ -75,7 +75,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "BRL-logistic-robotics-mk1",
-        category = "electronics-or-handcrafting",
+        categories = {"ElctronicHands"},
 		enabled = false,
 		allow_quality = true,
 		order = "A[robot]-AA[1-logistic-bot]",
@@ -88,7 +88,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "BRL-logistic-robotics-mk2",
-        category = "electronics-or-handcrafting",
+        categories = {"ElctronicHands"},
 		enabled = false,
 		allow_quality = true,
 		order = "A[robot]-AB[1-logistic-bot]",
@@ -102,7 +102,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "BRL-logistic-robotics-mk3",
-        category = "electronics-or-handcrafting",
+        categories = {"ElctronicHands"},
 		enabled = false,
         allow_quality = true,
 		order = "A[robot]-AC[1-logistic-bot]",
@@ -116,7 +116,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "BRL-logistic-robotics-mk4",
-        category = "electronics-or-handcrafting",
+        categories = {"ElctronicHands"},
 		enabled = false,
         allow_quality = true,
 		order = "A[robot]-AD[1-logistic-bot]",
@@ -131,7 +131,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "BRL-logistic-robotics-mk5",
-        category = "electronics-or-handcrafting",
+        categories = {"ElctronicHands"},
 		enabled = false,
         allow_quality = true,
 		order = "A[robot]-AE[1-logistic-bot]",

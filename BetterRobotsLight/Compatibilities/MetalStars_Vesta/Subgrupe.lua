@@ -1,9 +1,9 @@
 ---@class data.RecipePrototype
 local Recipe = data.raw.recipe
----@class LuaSettings
+---@class data.ItemPrototype
+local Item = data.raw["item"]
 local SS = settings.startup
 local Data = data.raw
-local Item = data.raw.item
 
 if mods["metal-and-stars"]and not mods["skewer_planet_vesta"] then
 	Recipe["antimatter-logistic-robot"].order = "D[robot]-BB[3-antimatter-logistic]"

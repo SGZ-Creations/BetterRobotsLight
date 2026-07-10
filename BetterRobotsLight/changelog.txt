@@ -1,11 +1,22 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.3.0
+Date: 10.07.26
+  Features:
+    - [BRL] Updated to 2.1.
+    - [BRL] More bugs & issue to fix later.
+  Changes:
+    - [BRL] Changed category to categories 2.1 required.
+    - [BRL][PA&R] Moved the logistics to the par tab if par is enabled. 
+  Info:
+    - [BRL] Removed missed placed files.
+---------------------------------------------------------------------------------------------------
 Version: 2.2.0
 Date: 10.07.26
   Changes:
-    - Fixed issues in relation to TIMSABA.
-    - Fixed issues with planetaris-tellus.
-    - Crash with K2SO.
-    - Grabbed code from my Chemical processing mod that had too to with robot change in relation to mod i have changed here in the past.
+    - [BRL] Fixed issues in relation to TIMSABA.
+    - [BRL] Fixed issues with planetaris-tellus.
+    - [BRL] Crash with K2SO.
+    - [BRL] Grabbed code from my Chemical processing mod that had to do with robot change in relation to mod i have changed here in the past.
 ---------------------------------------------------------------------------------------------------
 Version: 2.1.0
 Date: 26.02.26
