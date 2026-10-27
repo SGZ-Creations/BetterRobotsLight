@@ -1,7 +1,3 @@
-local SS = settings.startup
----@class data.RecipePrototype
-local Recipe = data.raw.recipe
----@class Data.ItemPrototype
 local Item = data.raw.item
 
 local Data = data.raw

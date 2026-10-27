@@ -1,7 +1,3 @@
----@class Data.ItemPrototype
-local Item = data.raw.item
----@class data.RecipePrototype
-local Recipe = data.raw.recipe
 local Data = data.raw
 
 if mods["planetaris-tellus"]then

@@ -1,6 +1,3 @@
----@class Data.TechnologyPrototype
-local Tech = data.raw["technology"]
-
 local ICON = "__base__/graphics/technology/construction-robotics.png"
 data:extend({
 	{

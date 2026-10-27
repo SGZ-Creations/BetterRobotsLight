@@ -1,7 +1,3 @@
----@class Data.ItemPrototype
-local Item = data.raw.item
----@class data.RecipePrototype
-local Recipe = data.raw.recipe
 local SS = settings.startup
 
 if mods["boblogistics"]then
